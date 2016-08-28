@@ -50,5 +50,8 @@ gulpfile.js.map
 .DS_Store
 
 .github
+.github/CONTRIBUTING.md
+.github/ISSUE_TEMPLATE.md
+ISSUE_TEMPLATE.md
 CONTRIBUTING.md
 Private.md
